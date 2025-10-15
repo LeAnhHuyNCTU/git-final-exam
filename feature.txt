@@ -1,0 +1,22 @@
+# TÍNH NĂNG MỚI: HỆ THỐNG QUẢN LÝ SINH VIÊN
+
+## Mô tả
+Xây dựng một ứng dụng web quản lý thông tin sinh viên với các chức năng CRUD đầy đủ.
+Hệ thống cho phép giảng viên thêm, sửa, xóa và tìm kiếm thông tin sinh viên một cách dễ dàng.
+
+## Công nghệ sử dụng
+- Frontend: React.js với Material-UI
+- Backend: Node.js + Express
+- Database: MongoDB
+
+## Tính năng chính
+1. Đăng nhập/Đăng xuất cho giảng viên
+2. Thêm thông tin sinh viên mới
+3. Cập nhật thông tin sinh viên
+4. Xóa sinh viên khỏi hệ thống
+5. Tìm kiếm sinh viên theo MSSV, tên, lớp
+6. Xuất danh sách sinh viên ra file Excel
+7. Import dữ liệu từ file CSV
+
+## Lợi ích
+Giúp giảng viên quản lý thông tin sinh viên hiệu quả, tiết kiệm thời gian và giảm thiểu sai sót.
