@@ -15,3 +15,11 @@ Tôi tin rằng sự kiên trì và nỗ lực sẽ giúp tôi đạt được �
 - Giao tiếp: Khả năng làm việc nhóm và trình bày ý tưởng tốt
 - Thuyết trình: Tự tin khi thuyết trình trước đám đông
 - Lập trình: Thành thạo Python, JavaScript, C++
+
+## KẾ HOẠCH HỌC TẬP
+
+Trong học kỳ này, tôi đặt mục tiêu hoàn thành xuất sắc các môn học chuyên ngành.
+Mỗi ngày, tôi dành ít nhất 3 giờ để thực hành code và làm bài tập.
+Tôi sẽ tham gia các dự án nhóm để nâng cao kỹ năng làm việc collaborative.
+Cuối học kỳ, tôi muốn hoàn thành một dự án cá nhân sử dụng React và Node.js.
+Ngoài ra, tôi cũng sẽ học thêm về Docker và CI/CD để chuẩn bị cho công việc sau này.
