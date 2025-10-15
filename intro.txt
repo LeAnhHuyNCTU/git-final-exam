@@ -1,6 +1,9 @@
 # GIỚI THIỆU CÁ NHÂN
 
+
 Hello, this is Lê Anh Huy, a CS student.
+Xin chào, tôi là Lê Anh Huy, sinh viên ngành CNTT.
+
 Tôi đang học tại trường Đại học Cần Thơ, chuyên ngành Khoa học Máy tính.
 Với niềm đam mê công nghệ, tôi luôn tìm tòi và học hỏi các kỹ thuật lập trình mới.
 Mục tiêu của tôi là trở thành một Software Engineer chuyên nghiệp.
@@ -23,3 +26,5 @@ Mỗi ngày, tôi dành ít nhất 3 giờ để thực hành code và làm bài
 Tôi sẽ tham gia các dự án nhóm để nâng cao kỹ năng làm việc collaborative.
 Cuối học kỳ, tôi muốn hoàn thành một dự án cá nhân sử dụng React và Node.js.
 Ngoài ra, tôi cũng sẽ học thêm về Docker và CI/CD để chuẩn bị cho công việc sau này.
+
+Conflict resolved on 15/10/2025
