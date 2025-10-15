@@ -42,3 +42,8 @@
 - Mỗi buổi học cần có 10 phút nghỉ giải lao
 - Thực hành nhiều hơn lý thuyết (tỷ lệ 70/30)
 - Tham gia discussion trên GitHub và Stack Overflow
+
+## Bổ sung tuần sau
+- Học về Git rebase và cherry-pick
+- Thực hành với GitHub Pull Request
+- Tìm hiểu về Git hooks
