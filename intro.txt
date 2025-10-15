@@ -1,6 +1,6 @@
 # GIỚI THIỆU CÁ NHÂN
 
-Xin chào! Tôi là Lê Anh Huy, sinh viên năm 3 ngành Công nghệ Thông tin.
+Xin chào, tôi là Lê Anh Huy, sinh viên ngành CNTT.
 Tôi đang học tại trường Đại học Cần Thơ, chuyên ngành Khoa học Máy tính.
 Với niềm đam mê công nghệ, tôi luôn tìm tòi và học hỏi các kỹ thuật lập trình mới.
 Mục tiêu của tôi là trở thành một Software Engineer chuyên nghiệp.
