@@ -2,3 +2,5 @@
 - Git là công cụ quản lý version code cực kỳ mạnh mẽ và hữu ích
 - Giúp làm việc nhóm hiệu quả, tránh conflict khi nhiều người code cùng lúc
 - Có thể quay lại bất kỳ version nào trong quá khứ, rất an toàn
+- Branch và merge giúp phát triển tính năng mới mà không ảnh hưởng code chính
+- GitHub là nơi lưu trữ và chia sẻ code tuyệt vời cho developer
