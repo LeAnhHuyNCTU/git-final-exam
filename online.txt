@@ -1,0 +1,3 @@
+Đây là file được tạo bằng GitHub web editor.
+Mục đích để thực hành git pull từ remote về local.
+Học Git thật thú vị và hữu ích!
