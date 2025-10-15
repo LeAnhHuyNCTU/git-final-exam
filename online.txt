@@ -1,3 +1,6 @@
 Đây là file được tạo bằng GitHub web editor.
 Mục đích để thực hành git pull từ remote về local.
 Học Git thật thú vị và hữu ích!
+
+Tôi đã pull file này về local và đang chỉnh sửa.
+Sau đó sẽ push lên GitHub để đồng bộ.
