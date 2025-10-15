@@ -1,0 +1,17 @@
+# GIỚI THIỆU CÁ NHÂN
+
+Xin chào! Tôi là Lê Anh Huy, sinh viên năm 3 ngành Công nghệ Thông tin.
+Tôi đang học tại trường Đại học Cần Thơ, chuyên ngành Khoa học Máy tính.
+Với niềm đam mê công nghệ, tôi luôn tìm tòi và học hỏi các kỹ thuật lập trình mới.
+Mục tiêu của tôi là trở thành một Software Engineer chuyên nghiệp.
+Tôi tin rằng sự kiên trì và nỗ lực sẽ giúp tôi đạt được ước mơ của mình.
+
+## SỞ THÍCH
+- Lập trình: Đặc biệt yêu thích Python và JavaScript
+- Vẽ: Thích vẽ digital art và character design
+- Hát: Thường xuyên tham gia các hoạt động văn nghệ
+
+## KỸ NĂNG
+- Giao tiếp: Khả năng làm việc nhóm và trình bày ý tưởng tốt
+- Thuyết trình: Tự tin khi thuyết trình trước đám đông
+- Lập trình: Thành thạo Python, JavaScript, C++
